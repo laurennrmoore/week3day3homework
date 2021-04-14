@@ -1,38 +1,31 @@
- var a=1;
- var b=2;
- var c =3;
+ 
+ //variable value designation
+ var a = 1;
+ var b = 2;
+ var c = 3;
  var d = 4;
  var e = 5;
  var f = 6;
- var g =7;
- var h =8;
-var i = 9;
-var j = 10;
+ var g = 7;
+ var h = 8;
+ var i = 9;
+ var j = 10;
 
 
-
+//adding variables
 console.log(a + b);
+console.log(c + d);
 
-function subtractTwo(j,h){
-answer(j-h);
-console.log;    
-}
 
-function subtractTwo(i,f){
-answer(i-f);
-console.log;
-}
+//subtracting variables
+console.log(j - c);
+console.log(i - d);
 
-function multiplyTwo(e,d){
-answer(e*d);
-console.log;    
-}
+//multiplying variables
+console.log(e * f);
+console.log(g * h);
 
-function multiplyTwo(a,j){
-answer(a*j);
-console.log;
-}
-
-function divideTwo(j,b){
-
-}
+//dividing variables
+console.log(h / d);
+console.log(f / c);
+    
