@@ -29,3 +29,10 @@ console.log(g * h);
 console.log(h / d);
 console.log(f / c);
     
+//incrementing variables
+console.log(i++);
+console.log(j++);
+
+//decrementing variables
+console.log(--c);
+console.log(--d);
